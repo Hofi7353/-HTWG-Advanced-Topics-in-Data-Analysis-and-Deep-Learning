@@ -16,7 +16,7 @@ Dieses Repository enthält die Seminar-Dokumentation für das Modul **Advanced T
 - **bernstein_interactive.py**
   Interaktives Skript zur Untersuchung von Bernstein-Polynomen mit grafischer Darstellung.
 
-- **presentations/**
+- **presentations**
   PDF-Dateien der Präsentationen:
 
   - `spotlight_talk.pdf` – Spotlight-Talk während des Seminars
